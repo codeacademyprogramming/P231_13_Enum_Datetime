@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "kNJcviWKNDnHFRNx5p86G3iq4BQTxv2b8hT3+B+I5fdH9U6cCEAH7hpY+sQb/tzxPmjigdZJHQg3h1a5md59bA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\06022023\\GroupsApp\\GroupsApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

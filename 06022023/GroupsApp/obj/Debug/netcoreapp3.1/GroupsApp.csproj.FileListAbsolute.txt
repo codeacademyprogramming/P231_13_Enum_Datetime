@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.exe
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\bin\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.dll
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.pdb
+C:\Users\Eagha\Desktop\CodeLessons\P231\C#\13. 06-02-2023\06022023\GroupsApp\obj\Debug\netcoreapp3.1\GroupsApp.genruntimeconfig.cache
