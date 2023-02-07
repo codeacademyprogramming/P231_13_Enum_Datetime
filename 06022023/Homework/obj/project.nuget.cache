@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pFUs5ipVag2SqqKG7d1z844vIElDLX/tn7ZgqXSEnbzJROwo8SkCgjL5vSl9/QoBbJdzTpIxGwQigbLP/kzwHA==",
+  "dgSpecHash": "rjuhow8a7dSUWCPaeN54DnMaDdOfZhw/RpLlO3JGJZQ1TAhCReVRNLtpepDnBUDh/Z3ZkiQM/LRsYKNkRYvUbA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\06022023\\Homework\\Homework.csproj",
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\P231_13_Enum_Datetime\\06022023\\Homework\\Homework.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
   ],

@@ -8,13 +8,16 @@ namespace GroupsApp
         {
             Group[] groups = new Group[0];
 
-
             string opt;
             do
             {
                 Console.WriteLine("1. Qrup elave et");
                 Console.WriteLine("2. Qruplara bax");
                 Console.WriteLine("3. Type deyerine gore qruplara bax");
+                Console.WriteLine("4. Bugunedek baslamis qruplara bax");
+                Console.WriteLine("5. Son 2 ayda baslamis qruplara bax");
+                Console.WriteLine("6. Bu ayin sonunadek  baslayacaq qruplara bax");
+                Console.WriteLine("7. Verilmis iki tarix araliginda baslayacaq qruplara bax");
                 Console.WriteLine("0. Cixis");
 
                 opt = Console.ReadLine();
@@ -27,7 +30,6 @@ namespace GroupsApp
                         Console.WriteLine("Type:");
                         foreach (var item in Enum.GetValues(typeof(GroupType)))
                             Console.WriteLine($"{(byte)item} - {item}");
-
 
                         byte typeByte;
                         string typeStr;
@@ -76,6 +78,44 @@ namespace GroupsApp
                                 Console.WriteLine($"No: {gr.No} - Type: {gr.Type} - StartDate: {gr.StartDate.ToString("dd-MM-yyyy HH:mm")}");
                         }
                         break;
+                    case "4":
+                        foreach (var gr in groups)
+                        {
+                            if (gr.StartDate.Date < DateTime.Now.Date)
+                                Console.WriteLine($"No: {gr.No} - Type: {gr.Type} - StartDate: {gr.StartDate.ToString("dd-MM-yyyy HH:mm")}");
+
+                        }
+                        break;
+
+                    case "5":
+                        foreach (var gr in groups)
+                        {
+                            if (gr.StartDate < DateTime.Now && gr.StartDate>DateTime.Now.AddMonths(-2))
+                                Console.WriteLine($"No: {gr.No} - Type: {gr.Type} - StartDate: {gr.StartDate.ToString("dd-MM-yyyy HH:mm")}");
+                        }
+                        break;
+                    case "6":
+                        foreach (var gr in groups)
+                        {
+                            var now = DateTime.Now;
+                            if (gr.StartDate>=now && gr.StartDate.Month ==now.Month && gr.StartDate.Year == now.Year )
+                                Console.WriteLine($"No: {gr.No} - Type: {gr.Type} - StartDate: {gr.StartDate.ToString("dd-MM-yyyy HH:mm")}");
+                        }
+                        break;
+                    case "7":
+                        Console.WriteLine("FromDate");
+                        DateTime fromDate = Convert.ToDateTime(Console.ReadLine());
+
+                        Console.WriteLine("ToDate");
+                        DateTime toDate = Convert.ToDateTime(Console.ReadLine());
+
+
+                        foreach (var gr in groups)
+                        {
+                            if (gr.StartDate>fromDate && gr.StartDate<toDate)
+                                Console.WriteLine($"No: {gr.No} - Type: {gr.Type} - StartDate: {gr.StartDate.ToString("dd-MM-yyyy HH:mm")}");
+                        }
+                        break;
                     case "0":
                         Console.WriteLine("Proqram bitdi");
                         break;
@@ -91,5 +131,7 @@ namespace GroupsApp
 
 
         }
+
+
     }
 }

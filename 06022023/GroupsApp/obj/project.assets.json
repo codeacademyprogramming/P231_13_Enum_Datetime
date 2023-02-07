@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\06022023\\GroupsApp\\GroupsApp.csproj",
+      "projectUniqueName": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\P231_13_Enum_Datetime\\06022023\\GroupsApp\\GroupsApp.csproj",
       "projectName": "GroupsApp",
-      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\06022023\\GroupsApp\\GroupsApp.csproj",
+      "projectPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\P231_13_Enum_Datetime\\06022023\\GroupsApp\\GroupsApp.csproj",
       "packagesPath": "C:\\Users\\Eagha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\06022023\\GroupsApp\\obj\\",
+      "outputPath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P231\\C#\\13. 06-02-2023\\P231_13_Enum_Datetime\\06022023\\GroupsApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Eagha\\AppData\\Roaming\\NuGet\\NuGet.Config",
